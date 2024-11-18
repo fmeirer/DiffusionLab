@@ -7,6 +7,8 @@ This code was inspired by the [@msdanalyzer MATLAB class](https://tinevez.github
 
 This code was published in [Maris, J. J. E., Rabouw, F. T., Weckhuysen, B. M. & Meirer, F. Classification-based motion analysis of single-molecule trajectories using DiffusionLab. Sci. Rep. 12, 9595 (2022)](https://doi.org/10.1038/s41598-022-13446-0). The raw and processed data sets used in the publication can be found [in this repository](https://doi.org/10.24416/UU01-6BONHT).
 
+Please note that the original location of this repository was https://github.com/ErikMaris/DiffusionLab. The original link remains active.
+
 ## Requirements
 
 Software has been written and tested in MATLAB 2019b.
@@ -16,9 +18,9 @@ Software has been written and tested in MATLAB 2019b.
 - Image Fitting Toolbox
 
 When running from the command line, please make sure that the following repositories have been downloaded and added to the MATLAB path:
-- printFig (https://github.com/ErikMaris/printFig)
-- plotProps (https://github.com/ErikMaris/plotProps)
-- unitProps (https://github.com/ErikMaris/unitProps)
+- [printFig](https://github.com/fmeirer/printFig)
+- [plotProps](https://github.com/fmeirer/plotProps)
+- [unitProps](https://github.com/fmeirer/unitProps)
 
 ## Demo data
 
